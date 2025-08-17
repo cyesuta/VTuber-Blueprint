@@ -1,0 +1,126 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code settings
+.claude/
+CLAUDE.md
+.claude-*
+.crush/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Media files (large files that shouldn't be in version control)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.mp3
+*.wav
+*.aac
+*.ogg
+*.flac
+*.m4a
+*.wma
+
+# Image files (if they are large or generated)
+*.psd
+*.ai
+*.eps
+*.tiff
+*.tif
+*.raw
+*.cr2
+*.nef
+*.orf
+*.sr2
+
+# 3D model files
+*.fbx
+*.blend
+*.max
+*.obj
+*.dae
+*.3ds
+
+# Video editing project files
+*.prproj
+*.aep
+*.fcp
+*.fcpx
+
+# Streaming software settings
+*.ini
+*.cfg
+obs-studio/
+
+# Personal notes and drafts
+drafts/
+notes/
+personal/
+
+# Backup files
+*.bak
+*.backup
+*~

@@ -18,27 +18,23 @@
 
 #### 📺 平台策略與規則
 
-- **YouTube** - 演算法優化、社群功能、營利規則
-- **Twitch** - 訂閱制度、Bits系統、社群建立
+- **[YouTube](platform/youtube.md)** - 演算法優化、社群功能、營利規則
+- **[Twitch](platform/twitch.md)** - 訂閱制度、Bits系統、社群建立
 - **TwitCasting** - 日本市場特色、互動功能
-- **Twitter(X)** - 短影音策略、社群經營、話題參與
+- **[Twitter(X)](platform/twitter.md)** - 短影音策略、社群經營、話題參與
 - **Niconico** - 彈幕文化、日本用戶習性
-- **Discord** - 社群伺服器管理、粉絲互動
-- **Clubhouse** - 語音社交、即時對談
-- **LINE** - 官方帳號、貼圖創作
+- **[Discord](platform/discord.md)** - 社群伺服器管理、粉絲互動
+- **[Club 系列](platform/club.md)** - 訂閱制平台整合 (Pixiv Fanbox, Patreon, Ofuse, Booth, Codoc)
+- **[LINE](platform/line.md)** - 官方帳號、貼圖創作、機器人架設
 - **TikTok** - 短影音製作、病毒式傳播
-- **Bilibili** - 中國市場特色、UP主生態
-- **Podcast** - 音頻內容製作、平台分發
+- **[Bilibili](platform/bilibili.md)** - 中國市場特色、UP主生態
+- **[Podcast](platform/podcast.md)** - 音頻內容製作、平台分發、收益化
 - **Facebook** - 粉絲專頁管理、直播功能
 - **Instagram** - 視覺內容、限時動態、Reels
 
 #### 🎭 模型與動作捕捉
 
-- 3D 模型製作與優化
-- Live2D 技術應用
-- 動作捕捉設備選擇
-- 表情追蹤技術
-- 手勢辨識系統
+- **[模型與動捕](tech/model-motion-capture.md)** - 2D/3D 模型製作、Live2D 技術、動作捕捉設備與技術
 
 #### 📚 版權開放素材來源
 

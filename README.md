@@ -22,99 +22,60 @@
 - **[Twitch](platform/twitch.md)** - 訂閱制度、Bits系統、社群建立
 - **TwitCasting** - 日本市場特色、互動功能
 - **[Twitter(X)](platform/twitter.md)** - 短影音策略、社群經營、話題參與
-- **Niconico** - 彈幕文化、日本用戶習性
+- **[Niconico](platform/niconico.md)** - 彈幕文化、日本用戶習性
 - **[Discord](platform/discord.md)** - 社群伺服器管理、粉絲互動
 - **[Club 系列](platform/club.md)** - 訂閱制平台整合 (Pixiv Fanbox, Patreon, Ofuse, Booth, Codoc)
 - **[LINE](platform/line.md)** - 官方帳號、貼圖創作、機器人架設
 - **TikTok** - 短影音製作、病毒式傳播
 - **[Bilibili](platform/bilibili.md)** - 中國市場特色、UP主生態
 - **[Podcast](platform/podcast.md)** - 音頻內容製作、平台分發、收益化
+- **[WordPress 官網](platform/website-wordpress.md)** - WordPress 架設與管理
 - **Facebook** - 粉絲專頁管理、直播功能
 - **Instagram** - 視覺內容、限時動態、Reels
 
-#### 🎭 模型與動作捕捉
+#### 🎨 創作製作技術
 
 - **[模型與動捕](tech/model-motion-capture.md)** - 2D/3D 模型製作、Live2D 技術、動作捕捉設備與技術
+- **[影片製作](tech/video-production.md)** - 完整影片製作流程
+- **[音樂製作](tech/music-production.md)** - 完整音樂製作流程
+- **[直播錄播](tech/streaming-recording.md)** - OBS 完整設定指南
 
-#### 📚 版權開放素材來源
+#### 💰 營收與行銷
 
-- 免費音樂資源庫
-- 圖片素材網站
-- 影片背景素材
-- 字體與圖示資源
-- Creative Commons 授權說明
-
-#### 🎁 谷子周邊
-
+- **[廣告投放](tech/advertising.md)** - Google、Facebook 廣告策略
+- **[群眾募資](tech/crowdfunding.md)** - 谷子平台使用指南
 - 週邊商品設計
 - 生產廠商合作
 - 品質控制流程
 - 物流配送規劃
 - 粉絲商品策略
 
-#### 🎨 約稿管理
+#### 📚 素材與委託
 
+- 免費音樂資源庫
+- 圖片素材網站
+- 影片背景素材
+- 字體與圖示資源
+- Creative Commons 授權說明
 - 委託流程建立
 - 價格評估標準
 - 合約範本
 - 品質驗收機制
 - 版權歸屬處理
 
-#### 🎵 音樂製作
-
-- BGM 創作與選擇
-- 音效設計
-- 歌曲創作流程
-- 錄音技術
-- 音樂版權處理
-
-#### 📢 廣告素材
-
-- 視覺設計原則
-- 文案撰寫技巧
-- 品牌識別建立
-- 行銷素材製作
-- A/B 測試策略
-
-#### 🎬 影片製作
-
-- 剪輯軟體操作
-- 後製特效技術
-- 色彩調校
-- 音頻處理
-- 輸出格式優化
-
-#### ✍️ 文章校正
+#### ✍️ 內容撰寫與校正
 
 - 內容撰寫技巧
 - 校對流程建立
 - SEO 優化
 - 多語言處理
 - 風格指南制定
+- 欄目企劃
+- 讀者分析
+- 內容日程規劃
 
-#### 📡 直播、錄播技術
 
-- OBS Studio 設定
-- 串流設備配置
-- 網路環境優化
-- 多機位切換
-- 錄影品質控制
 
-#### 🌐 官網維護
-
-- 網站架設
-- 內容管理系統
-- SEO 優化
-- 安全性維護
-- 效能監控
-
-#### 💻 硬體設備
-
-- 電腦規格建議
-- 攝影設備選擇
-- 音響系統配置
-- 動作捕捉裝置
-- 週邊配件推薦
 
 ### 思維篇
 
